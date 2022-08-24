@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speddling
+- 👋 Hi, I’m @speddling but IRL people call me James
 - 👀 I’m interested in the pursuit of happiness
 - 🌱 I’m currently learning something new every day
 - 💞️ I’m looking to collaborate on whatever I can
