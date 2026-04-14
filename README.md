@@ -1,8 +1,6 @@
 # James Hart | DevOps & SRE Engineer
 
-20+ years keeping infrastructure alive — from overnight NOC at Vonage 
-monitoring 9,000 nodes and 4,000 servers, to cloud migrations, 
-CI/CD pipelines, and PCI-compliant AWS production environments.
+25+ years keeping infrastructure alive — 10 years of building, migrating, and hardening it in the cloud
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +16,7 @@ CI/CD pipelines, and PCI-compliant AWS production environments.
 
 - 🏗️ Building a home Kubernetes lab (K3s on bare metal)
 - 🎓 BS Computer Science — AI & Business Focus (4.0 GPA)
-- 🎵 multi-instrumentalist that identifies as a bassist, and tube amplifier design tinkerer.
+- 🎵 Multi-instrumentalist / Bassist  -and-  Tube Amplifier Design.
 
 ## 🌱 Currently Learning
 
