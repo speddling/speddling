@@ -22,7 +22,7 @@ CI/CD pipelines, and PCI-compliant AWS production environments.
 
 ## 🌱 Currently Learning
 
-- Python (formally — CS102)
+- Python (formally — PY103)
 - Kubernetes from the ground up
 - MLOps and AI pipeline infrastructure
 
