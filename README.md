@@ -1,6 +1,12 @@
 # James Hart | DevOps & SRE Engineer
 
-25+ years keeping infrastructure alive — 10 years of building, migrating, and hardening it in the cloud
+20+ years in cloud infrastructure, network operations, and cross-domain incident response.
+Multi-cloud (AWS, Azure, GovCloud) | Docker/Kubernetes | CI/CD | PCI DSS | SOC 2
+
+Currently building: Home Kubernetes lab | BS in CS (AI & Business focus, 4.0 GPA)
+📫 jameshartbassist@gmail.com | linkedin.com/in/james-hart-bassist/
+
+---
 
 ## 🛠️ Tech Stack
 
