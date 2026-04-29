@@ -21,8 +21,9 @@ Currently building: Home Kubernetes lab | BS in CS (AI & Business focus, 4.0 GPA
 
 ## 🔭 Currently Working On
 
-- 🏗️ Homelab on bare metal: k3s workload node + dedicated monitoring stack (Prometheus, Grafana, Alerting) — fully automated with Ansible, Terraform Cloud, and GitHub Actions CI/CD
-- 🎓 BS Computer Science — AI & Business focus (4.0 GPA)
+- 🏗️ Homelab on bare metal: k3s workload node + dedicated monitoring stack (Prometheus, Grafana, Alerting)
+  — fully automated with Ansible, Terraform Cloud, and GitHub Actions CI/CD
+- 🎓 BS Computer Science - AI & Business focus (4.0 GPA)
 - 🎵 Multi-instrumental / Extended range bass performance -and-  Tube amplifier design.
 
 ## 🌱 Currently Learning
