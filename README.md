@@ -1,5 +1,6 @@
 # James Hart | Cloud & DevOps Engineer
 20+ years in cloud infrastructure, network operations, and cross-domain incident response.
+
 Multi-cloud | On-Prem & Bare Metal | Containers & Orchestration | GitOps | CI/CD | PCI DSS & SOC 2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-hart-bassist/)
