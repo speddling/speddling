@@ -32,7 +32,7 @@ Multi-cloud | On-Prem & Bare Metal | Containers & Orchestration | GitOps | CI/CD
 - 🏗️ Production GitOps homelab: k3s, ArgoCD (App of Apps), Terraform Cloud, Ansible, GitHub Actions CI/CD, full Prometheus observability stack with Grafana, Alertmanager, Netdata, and custom exporters
 - 🤖 Local LLM inference via Ollama on Apple Silicon (M4, Metal backend) for AI/ML pipeline experimentation and MLOps tooling
 - ☁️ Cloud & DevOps consulting under Little Wolf Acres, LLC
-- 🎓 BS Computer Science, AI focused, 4.0 GPA, expected December 2027
+- 🎓 BS Computer Science, AI focused, 4.0 GPA (completion date: December 2027)
 - 🎵 Multi-instrumental / Extended range bass performance -and-  Tube amplifier design.
 
 ---
